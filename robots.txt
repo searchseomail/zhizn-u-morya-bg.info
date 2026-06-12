@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhizn-u-morya-bg.info/sitemap.txt
